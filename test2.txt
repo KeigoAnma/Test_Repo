@@ -1,0 +1,2 @@
+Hello, test2!
+This is made file for test2.
